@@ -1,0 +1,76 @@
+{
+  "profesores": [
+    {
+      "nombre": "Jean",
+      "apellido": "Jara",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "JavaScript"
+        }
+      ],
+      "id": "9895"
+    },
+    {
+      "id": "7653",
+      "nombre": "Franco",
+      "apellido": "Jara",
+      "materias": [
+        {
+          "nombre": "PostgresSQL"
+        },
+        {
+          "nombre": "Bash"
+        },
+        {
+          "nombre": "Python"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Chica",
+      "apellido": "Jara",
+      "promedio": 6.5,
+      "id": "e028"
+    },
+    {
+      "nombre": "Blanca",
+      "apellido": "Jara",
+      "promedio": 7,
+      "id": "ecc0"
+    },
+    {
+      "nombre": "Roko",
+      "apellido": "Jara",
+      "promedio": 3.2,
+      "id": "9d06"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "46ff"
+    },
+    {
+      "nombre": "React",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "efd3"
+    },
+    {
+      "nombre": "Angular",
+      "duracion": 10,
+      "dificultad": "alta",
+      "id": "f274"
+    }
+  ]
+}
